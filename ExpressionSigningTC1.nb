@@ -1,0 +1,12 @@
+Notebook[{Cell[
+CellGroupData[{Cell[
+BoxData[RowBox[{RowBox[{"variable"," ","="," ","1"}],";"," ",RowBox[
+{"Graphics","[",RowBox[{"{",RowBox[{"Red",","," ",RowBox[{"Button","[",RowBox[{RowBox[
+{"Disk","[","]"}],","," ",RowBox[{"Print","[","variable","]"}]}],"]"}]}],"}"}],"]"}]}]],
+"Input",CellLabel -> "In[5]:= ",ExpressionUUID -> "e550a055-b1be-4ee3-aae1-e2a3c735d7e3"],Cell[
+BoxData[
+GraphicsBox[{RGBColor[1,0,0],TagBox[DiskBox[{0,0}],EventHandlerTag[{RuleDelayed["MouseClicked",
+Print[variable]],Method -> "Preemptive",PassEventsDown -> Automatic,PassEventsUp -> True}]]}],
+StandardForm],"Output",CellLabel -> "Out[5]= ",ExpressionUUID -> "8a74fd28-776e-413a-b9d9-bd66fcb7cd4e"]},
+Open],ExpressionUUID -> "44ed6f40-f0d7-4813-bfa8-93b838bb2dd8"]},StyleDefinitions -> "Default.nb",
+FrontEndVersion -> "13.1 for Wolfram Cloud francopc/CLOUD-21990-master-playwright-tests-notebooks-cache (August 5, 2022)"]
